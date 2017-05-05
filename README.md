@@ -1,7 +1,15 @@
 # Word guessing game using Genetic algorithm
 
-Word finding problem uses genetic engineering algorithm to guess the word that oppenent has thoght.
+Word guessing game is simply "guessing the right word that oppenent has thoght about".
 
-The code base is not fully complete. The implementation is still underway.
+The code base is not complete. The implementation is still underway.
+
+Pull requests and encouraged.
+
+
+## Note:
+
+  Contributors:
+       ...
 
 
